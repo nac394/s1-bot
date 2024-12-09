@@ -1,0 +1,155 @@
+{
+    "query": "2021年度入学の情報科学部生です。2年の必修を教えてください",
+    "similarity_scores": [
+        {
+            "json_file": "2024shikaku_kokusai_title.json",
+            "similarity_score": 0.4143728260622088
+        },
+        {
+            "json_file": "2024shinsotu_art_title.json",
+            "similarity_score": 0.4181246150426689
+        },
+        {
+            "json_file": "2022risyuu_art_title.json",
+            "similarity_score": 0.5278499763045771
+        },
+        {
+            "json_file": "2024shikaku_jyoho_title.json",
+            "similarity_score": 0.5363704623969702
+        },
+        {
+            "json_file": "2022risyuu_jyoho_title.json",
+            "similarity_score": 0.7268009280350085
+        },
+        {
+            "json_file": "2023shinsotu_art_title.json",
+            "similarity_score": 0.4359868395663907
+        },
+        {
+            "json_file": "2022shinsotu_kokusai_title.json",
+            "similarity_score": 0.48529044090183354
+        },
+        {
+            "json_file": "2021risyuu_jyoho_title.json",
+            "similarity_score": 0.6795609461851346
+        },
+        {
+            "json_file": "2021risyuu_kokusai_title.json",
+            "similarity_score": 0.5897643864251608
+        },
+        {
+            "json_file": "2022shinsotu_jyoho_title.json",
+            "similarity_score": 0.6658182262950305
+        },
+        {
+            "json_file": "2023shikaku_kokusai_title.json",
+            "similarity_score": 0.41588800748920324
+        },
+        {
+            "json_file": "2023shinsotu_kokusai_title.json",
+            "similarity_score": 0.4710686034830675
+        },
+        {
+            "json_file": "2021shinsotu_art_title.json",
+            "similarity_score": 0.45182690759740674
+        },
+        {
+            "json_file": "2023shinsotu_jyoho_title.json",
+            "similarity_score": 0.6467261508605211
+        },
+        {
+            "json_file": "2023shikaku_art_title.json",
+            "similarity_score": 0.3622390781242051
+        },
+        {
+            "json_file": "2023shikaku_jyoho_title.json",
+            "similarity_score": 0.5406580722892076
+        },
+        {
+            "json_file": "2024risyuu_kokusai_title.json",
+            "similarity_score": 0.5481917163667924
+        },
+        {
+            "json_file": "2023risyuu_art_title.json",
+            "similarity_score": 0.5132810303699552
+        },
+        {
+            "json_file": "2023risyuu_jyoho_title.json",
+            "similarity_score": 0.7051047281578694
+        },
+        {
+            "json_file": "2022shinsotu_art_title.json",
+            "similarity_score": 0.4483743297752942
+        },
+        {
+            "json_file": "2024risyuu_jyoho_title.json",
+            "similarity_score": 0.6879715418458909
+        },
+        {
+            "json_file": "2021shikaku_kokusai_title.json",
+            "similarity_score": 0.434292652718891
+        },
+        {
+            "json_file": "2024shinsotu_kokusai_title.json",
+            "similarity_score": 0.46297742864110447
+        },
+        {
+            "json_file": "2021shikaku_art_title.json",
+            "similarity_score": 0.37107673231894733
+        },
+        {
+            "json_file": "2022risyuu_kokusai_title.json",
+            "similarity_score": 0.5729079466995803
+        },
+        {
+            "json_file": "2021shinsotu_jyoho_title.json",
+            "similarity_score": 0.6667917878888973
+        },
+        {
+            "json_file": "2021shinsotu_kokusai_title.json",
+            "similarity_score": 0.4919297611552247
+        },
+        {
+            "json_file": "2021shikaku_jyoho_title.json",
+            "similarity_score": 0.5697216282770693
+        },
+        {
+            "json_file": "inobe_title.json",
+            "similarity_score": 0.48891538095967774
+        },
+        {
+            "json_file": "2024shikaku_art_title.json",
+            "similarity_score": 0.34434155683821277
+        },
+        {
+            "json_file": "2022shikaku_art_title.json",
+            "similarity_score": 0.3779396476907062
+        },
+        {
+            "json_file": "2022shikaku_kokusai_title.json",
+            "similarity_score": 0.43611808378147204
+        },
+        {
+            "json_file": "2022shikaku_jyoho_title.json",
+            "similarity_score": 0.5730160550186135
+        },
+        {
+            "json_file": "2023risyuu_kokusai_title.json",
+            "similarity_score": 0.5586747159276924
+        },
+        {
+            "json_file": "2024shinsotu_jyoho_title.json",
+            "similarity_score": 0.6406032115141473
+        },
+        {
+            "json_file": "2021risyuu_art_title.json",
+            "similarity_score": 0.5390684268234074
+        },
+        {
+            "json_file": "2024risyuu_art_title.json",
+            "similarity_score": 0.49668430908825284
+        }
+    ],
+    "best_match_file": "kanren/title_vector/2022risyuu_jyoho_title.json",
+    "best_match_score": 0.7268009280350085
+}
